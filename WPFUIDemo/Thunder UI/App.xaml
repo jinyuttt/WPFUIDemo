@@ -1,0 +1,17 @@
+﻿<Application x:Class="Thunder_UI.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    	<ResourceDictionary>
+    		<ResourceDictionary.MergedDictionaries>
+    			<ResourceDictionary Source="无边框阴影窗体.xaml"/>
+    			<ResourceDictionary Source="Hometab.xaml"/>
+    			<ResourceDictionary Source="TabItem.xaml"/>
+    			<ResourceDictionary Source="Button.xaml"/>
+    		</ResourceDictionary.MergedDictionaries>
+    	</ResourceDictionary>
+         
+    </Application.Resources>
+</Application>

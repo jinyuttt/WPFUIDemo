@@ -1,0 +1,56 @@
+G:\测试程序\C Sharp\360UI\360UI\bin\Debug\360UI.exe
+G:\测试程序\C Sharp\360UI\360UI\bin\Debug\360UI.pdb
+G:\测试程序\C Sharp\360UI\360UI\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\测试程序\C Sharp\360UI\360UI\obj\x86\Debug\MainWindow.baml
+G:\测试程序\C Sharp\360UI\360UI\obj\x86\Debug\MainWindow.g.cs
+G:\测试程序\C Sharp\360UI\360UI\obj\x86\Debug\App.g.cs
+G:\测试程序\C Sharp\360UI\360UI\obj\x86\Debug\360UI_MarkupCompile.cache
+G:\测试程序\C Sharp\360UI\360UI\obj\x86\Debug\360UI.g.resources
+G:\测试程序\C Sharp\360UI\360UI\obj\x86\Debug\_360UI.Properties.Resources.resources
+G:\测试程序\C Sharp\360UI\360UI\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\测试程序\C Sharp\360UI\360UI\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\测试程序\C Sharp\360UI\360UI\obj\x86\Debug\360UI.exe
+G:\测试程序\C Sharp\360UI\360UI\obj\x86\Debug\360UI.pdb
+G:\测试程序\C Sharp\360UI\360UI\obj\x86\Debug\GenerateResource.read.0.tlog
+G:\测试程序\C Sharp\360UI\360UI\obj\x86\Debug\GenerateResource.write.0.tlog
+G:\测试程序\C Sharp\360UI\360UI\obj\x86\Debug\App.baml
+G:\测试程序\C Sharp\360UI\360UI\obj\x86\Debug\TabControlStyle.baml
+G:\测试程序\C Sharp\360UI\360UI\obj\x86\Debug\SysButtonStyle.baml
+G:\测试程序\C Sharp\360UI\360UI\obj\x86\Debug\MenuItemStyle.baml
+G:\测试程序\C Sharp\360UI\360UI\obj\x86\Debug\ButtonResource.baml
+F:\迅雷下载\WPF_360UI\360UI\360UI\bin\Debug\360UI.exe
+F:\迅雷下载\WPF_360UI\360UI\360UI\bin\Debug\360UI.pdb
+F:\迅雷下载\WPF_360UI\360UI\360UI\obj\x86\Debug\360UI.csprojAssemblyReference.cache
+F:\迅雷下载\WPF_360UI\360UI\360UI\obj\x86\Debug\ButtonResource.baml
+F:\迅雷下载\WPF_360UI\360UI\360UI\obj\x86\Debug\MainWindow.baml
+F:\迅雷下载\WPF_360UI\360UI\360UI\obj\x86\Debug\MenuItemStyle.baml
+F:\迅雷下载\WPF_360UI\360UI\360UI\obj\x86\Debug\SysButtonStyle.baml
+F:\迅雷下载\WPF_360UI\360UI\360UI\obj\x86\Debug\TabControlStyle.baml
+F:\迅雷下载\WPF_360UI\360UI\360UI\obj\x86\Debug\App.baml
+F:\迅雷下载\WPF_360UI\360UI\360UI\obj\x86\Debug\MainWindow.g.cs
+F:\迅雷下载\WPF_360UI\360UI\360UI\obj\x86\Debug\App.g.cs
+F:\迅雷下载\WPF_360UI\360UI\360UI\obj\x86\Debug\360UI_MarkupCompile.cache
+F:\迅雷下载\WPF_360UI\360UI\360UI\obj\x86\Debug\360UI.g.resources
+F:\迅雷下载\WPF_360UI\360UI\360UI\obj\x86\Debug\_360UI.Properties.Resources.resources
+F:\迅雷下载\WPF_360UI\360UI\360UI\obj\x86\Debug\360UI.csproj.GenerateResource.cache
+F:\迅雷下载\WPF_360UI\360UI\360UI\obj\x86\Debug\360UI.csproj.CoreCompileInputs.cache
+F:\迅雷下载\WPF_360UI\360UI\360UI\obj\x86\Debug\360UI.exe
+F:\迅雷下载\WPF_360UI\360UI\360UI\obj\x86\Debug\360UI.pdb
+E:\Study\vs\WPFUI\WPFUIDemo\360UI\bin\Debug\360UI.exe
+E:\Study\vs\WPFUI\WPFUIDemo\360UI\bin\Debug\360UI.pdb
+E:\Study\vs\WPFUI\WPFUIDemo\360UI\obj\x86\Debug\360UI.csprojAssemblyReference.cache
+E:\Study\vs\WPFUI\WPFUIDemo\360UI\obj\x86\Debug\ButtonResource.baml
+E:\Study\vs\WPFUI\WPFUIDemo\360UI\obj\x86\Debug\MainWindow.baml
+E:\Study\vs\WPFUI\WPFUIDemo\360UI\obj\x86\Debug\MenuItemStyle.baml
+E:\Study\vs\WPFUI\WPFUIDemo\360UI\obj\x86\Debug\SysButtonStyle.baml
+E:\Study\vs\WPFUI\WPFUIDemo\360UI\obj\x86\Debug\TabControlStyle.baml
+E:\Study\vs\WPFUI\WPFUIDemo\360UI\obj\x86\Debug\App.baml
+E:\Study\vs\WPFUI\WPFUIDemo\360UI\obj\x86\Debug\MainWindow.g.cs
+E:\Study\vs\WPFUI\WPFUIDemo\360UI\obj\x86\Debug\App.g.cs
+E:\Study\vs\WPFUI\WPFUIDemo\360UI\obj\x86\Debug\360UI_MarkupCompile.cache
+E:\Study\vs\WPFUI\WPFUIDemo\360UI\obj\x86\Debug\360UI.g.resources
+E:\Study\vs\WPFUI\WPFUIDemo\360UI\obj\x86\Debug\_360UI.Properties.Resources.resources
+E:\Study\vs\WPFUI\WPFUIDemo\360UI\obj\x86\Debug\360UI.csproj.GenerateResource.cache
+E:\Study\vs\WPFUI\WPFUIDemo\360UI\obj\x86\Debug\360UI.csproj.CoreCompileInputs.cache
+E:\Study\vs\WPFUI\WPFUIDemo\360UI\obj\x86\Debug\360UI.exe
+E:\Study\vs\WPFUI\WPFUIDemo\360UI\obj\x86\Debug\360UI.pdb
